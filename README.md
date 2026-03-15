@@ -35,9 +35,7 @@ I’m passionate about building scalable backend systems and continuously improv
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashrajvyas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br></br>
 
 <!-- Snake Game Repo View -->
 
@@ -50,3 +48,8 @@ I’m passionate about building scalable backend systems and continuously improv
 [![](https://visitcount.itsvg.in/api?id=yashrajvyas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yashrajvyas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
