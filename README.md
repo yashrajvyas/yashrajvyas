@@ -1,4 +1,6 @@
-# 💫 Hi 👋, I'm Yashraj Vyas
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Yashraj Vyas
+</h1>
 **A passionate Software Engineer.
 
 Email Me 👉 ✉️ **yvyas398845@gmail.com** For Collaboration/Project or Anything Else. 😊😊
