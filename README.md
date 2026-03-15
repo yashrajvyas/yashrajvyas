@@ -15,7 +15,7 @@ I’m passionate about building scalable backend systems and continuously improv
 <br></br>
 
 # 🚀 About Me:
-🔭 I’m currently working on Java Backend Development and building projects using Spring Boot.<br><br>👯 I’m looking to collaborate on Backend / API based projects and open-source contributions.<br><br>🤝 I’m looking for help with System Design, scalable backend architecture, and advanced Spring ecosystem.<br><br>🌱 I’m currently learning Data Structures & Algorithms with C++ and improving problem solving skills.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Backend Development and DSA.<br><br> I have a 5⭐ badge on HackerRank and I'm on a journey to become a Software Development Engineer (SDE).<br><br>🎓 Education: MCA Student | IPS Academy, Indore  <br>🎯 Goal: To become a strong Backend / Software Development Engineer.
+🔭 I’m currently working on Java Backend Development and building projects using Spring Boot.<br><br>👯 I’m looking to collaborate on Backend / API based projects and open-source contributions.<br><br>🤝 I’m looking for help with System Design, scalable backend architecture, and advanced Spring ecosystem.<br><br>🌱 I’m currently learning Data Structures & Algorithms with C++ and improving problem solving skills.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Backend Development and DSA.<br><br> 🎓 Education: MCA Student | IPS Academy, Indore  <br>🎯 Goal: To become a strong Backend / Software Development Engineer.
 <br></br>
 
 ## 🌐 Socials:
