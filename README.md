@@ -1,16 +1,17 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Yashraj Vyas
 </h1>
-**A passionate Software Engineer.
 
-Email Me 👉 ✉️ **yvyas398845@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+**Java Backend Developer | Aspiring Software Development Engineer**
 
-- 🔭 **I’m currently working on:** AirBnB(Clone) - Project
-- 🌱 **I’m currently learning:** Java Backend Devlopment
+I’m passionate about building scalable backend systems and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
-- 📫 **How to reach me:** yvyas398845@gmail.com
-- 😄 **Pronouns:** Yash
-- ⚡ **Fun fact:** If my code works on the first try, I start questioning reality.
+📌 Currently building backend projects using **Java & Spring Boot**  
+🚀 Practicing **DSA with C++** and improving algorithmic thinking  
+🏆 5⭐ Problem Solving Badge on **HackerRank**  
+📍 MCA Student | IPS Academy, Indore  
+
+📫 Reach me at: **yvyas398845@gmail.com**
 
 # 💫 About Me:
 🔭 I’m currently working on Java Backend Development and building projects using Spring Boot.<br><br>👯 I’m looking to collaborate on Backend / API based projects and open-source contributions.<br><br>🤝 I’m looking for help with System Design, scalable backend architecture, and advanced Spring ecosystem.<br><br>🌱 I’m currently learning Data Structures & Algorithms with C++ and improving problem solving skills.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Backend Development and DSA.<br><br> I have a 5⭐ badge on HackerRank and I'm on a journey to become a Software Development Engineer (SDE).<br><br>🎓 Education: MCA Student | IPS Academy, Indore  <br>🎯 Goal: To become a strong Backend / Software Development Engineer.
