@@ -6,6 +6,7 @@
 
 I’m passionate about building scalable backend systems and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
+# 🚀 About Me
 📌 Currently building backend projects using **Java & Spring Boot**  
 🚀 Practicing **DSA with C++** and improving algorithmic thinking  
 🏆 5⭐ Problem Solving Badge on **HackerRank**  
@@ -14,9 +15,6 @@ I’m passionate about building scalable backend systems and continuously improv
 📫 Reach me at: **yvyas398845@gmail.com**
 <br></br>
 
-# 🚀 About Me:
-🔭 I’m currently working on Java Backend Development and building projects using Spring Boot.<br><br>👯 I’m looking to collaborate on Backend / API based projects and open-source contributions.<br><br>🤝 I’m looking for help with System Design, scalable backend architecture, and advanced Spring ecosystem.<br><br>🌱 I’m currently learning Data Structures & Algorithms with C++ and improving problem solving skills.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Backend Development and DSA.<br><br> 🎓 Education: MCA Student | IPS Academy, Indore  <br>🎯 Goal: To become a strong Backend / Software Development Engineer.
-<br></br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yashrajvyas0907) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yashraj.vyas.90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashrajvyas__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashrajvyas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yvyas398845@gmail.com) 
