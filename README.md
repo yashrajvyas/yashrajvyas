@@ -8,7 +8,7 @@ I’m passionate about building scalable backend systems and continuously improv
 
 # 🚀 About Me
 📌 Currently building backend projects using **Java & Spring Boot**  
-🚀 Practicing **DSA with C++** and improving algorithmic thinking  
+🚀 Practicing **DSA** and improving algorithmic thinking  
 🏆 5⭐ Problem Solving Badge on **HackerRank**  
 📍 MCA Student | IPS Academy, Indore  
 
