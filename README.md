@@ -36,9 +36,6 @@ Strong foundation in Data Structures and Algorithms with a problem-solving minds
 ![](https://github-readme-activity-graph.vercel.app/graph?username=yashrajvyas&theme=react-dark)
 <br></br>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashrajvyas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br></br>
