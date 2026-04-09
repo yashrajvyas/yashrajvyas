@@ -2,10 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Yashraj Vyas
 </h1>
 
-Java Backend Developer.
 
-I’m passionate about building scalable backend systems and continuously improving my problem-solving skills through Data Structures & Algorithms.
-<br></br>
 
 ## 👨‍💻 About Me
 
