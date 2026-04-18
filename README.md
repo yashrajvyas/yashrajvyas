@@ -2,62 +2,103 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Yashraj Vyas
 </h1>
 
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | PostgreSQL</h3>
 
+<p align="center">
+Focused on building scalable backend systems, clean architectures, and real-world projects.
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-Java Backend Developer focused on building scalable and efficient server-side applications.
-
-I work with Java, Spring, Spring Boot, Hibernate, and Spring Data JPA to design clean backend architectures and develop robust RESTful APIs. I prioritize writing maintainable code, optimizing performance, and following industry best practices.
-
-Strong foundation in Data Structures and Algorithms with a problem-solving mindset. Comfortable handling real-world backend challenges including data management, API design, and system logic.
-
-
-📌 Focus:
-
-* Backend Development
-* Clean Architecture
-* Performance Optimization
-* Scalable Systems
-  <br></br>
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-45C2B1?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-<br></br>
-
-
-
-# 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=yashrajvyas&theme=dark)
-
-## **📈 Contribution Graph**
-![](https://github-readme-activity-graph.vercel.app/graph?username=yashrajvyas&theme=react-dark)
-<br></br>
-
-#### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br></br>
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
+* 🎯 Java Backend Developer focused on **Spring Boot ecosystem**
+* ⚙️ Building scalable backend applications with **Java, Spring Boot, Hibernate, PostgreSQL**
+* 🏨 Currently building an **Airbnb Clone Backend**
+* 💡 Strong interest in **System Design, APIs, Database Design, Performance Optimization**
+* 📚 Practicing **Data Structures & Algorithms**
+* 🚀 Continuously improving through real-world projects
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashrajvyas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 Current Featured Project
 
+### 🏨 Airbnb Clone Backend
 
+Production-inspired backend system featuring:
 
-![](https://github-contributor-stats.vercel.app/api?username=yashrajvyas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* Hotel Search Engine
+* Booking Workflow
+* Inventory-based Availability
+* Dynamic Pricing Engine
+* Scheduler Automation
+* Clean Layered Architecture
 
+🔗 **Repository:**
+https://github.com/yashrajvyas/AirBnB-Clone
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-Data_Layer-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-In_Progress-black?style=for-the-badge&logo=jsonwebtokens" />
+
+</p>
+
+---
+
+## 📌 Areas of Interest
+
+* Backend Development
+* REST API Design
+* Database Modeling
+* Scalable Systems
+* Clean Code
+* Performance Optimization
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=yashrajvyas&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajvyas&theme=react-dark" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** [yvyas398845@gmail.com](mailto:yvyas398845@gmail.com)
+🔗 **LinkedIn:** https://www.linkedin.com/in/yashraj-vyas-819b46320
+
+---
+
+## 🚀 Career Goal
+
+Seeking opportunities as a **Java Backend Developer / Software Engineer** where I can contribute, learn, and grow by building impactful backend systems.
+
+---
+
+## ⭐ Quote I Follow
+
+> Consistency beats intensity.
