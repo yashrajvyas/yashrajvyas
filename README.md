@@ -93,12 +93,3 @@ https://github.com/yashrajvyas/AirBnB-Clone
 
 ---
 
-## 🚀 Career Goal
-
-Seeking opportunities as a **Java Backend Developer / Software Engineer** where I can contribute, learn, and grow by building impactful backend systems.
-
----
-
-## ⭐ Quote I Follow
-
-> Consistency beats intensity.
