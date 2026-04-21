@@ -2,7 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Yashraj Vyas
 </h1>
 
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | PostgreSQL</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Hibernate.</h3>
 
 <p align="center">
 Focused on building scalable backend systems, clean architectures, and real-world projects.
