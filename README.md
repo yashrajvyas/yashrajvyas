@@ -5,22 +5,21 @@
 <h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Hibernate.</h3>
 
 <p align="center">
-Focused on building scalable backend systems, clean architectures, and real-world projects.
+ Building scalable backend systems, clean architectures, and real-world projects.
 </p>
 
 ---
 
 ##  About Me
 
-*  Java Backend Developer focused on **Spring Boot ecosystem**
+*  Java Backend Developer with expertise in **Spring Boot ecosystem**
 *  Building scalable backend applications with **Java, Spring Boot, Hibernate, PostgreSQL**
-* Strong interest in **System Design, APIs, Database Design, Performance Optimization**
-*  Practicing **Data Structures & Algorithms**
+*  **System Design, APIs, Database Design, Performance Optimization**
 *  Continuously improving through real-world projects
 
 ---
 
-##  Current Featured Project
+##  **Current Featured Project**
 
 ###  Airbnb Clone Backend
 
@@ -38,7 +37,7 @@ https://github.com/yashrajvyas/AirBnB-Clone
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
 <p align="left">
 
@@ -58,7 +57,7 @@ https://github.com/yashrajvyas/AirBnB-Clone
 
 ---
 
-## 📌 Areas of Interest
+## 📌 **Areas of Interest**
 
 * Backend Development
 * REST API Design
@@ -69,13 +68,15 @@ https://github.com/yashrajvyas/AirBnB-Clone
 
 ---
 
-## 📈 GitHub Stats
+## 📈 **GitHub Stats**
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=yashrajvyas&theme=dark" />
 
-</p>
+</p> 
+
+---
 
 <p align="center">
 
@@ -85,7 +86,7 @@ https://github.com/yashrajvyas/AirBnB-Clone
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 **Connect With Me**
 
 📧 **Email:** [yvyas398845@gmail.com](mailto:yvyas398845@gmail.com)
 🔗 **LinkedIn:** https://www.linkedin.com/in/yashraj-vyas-819b46320
