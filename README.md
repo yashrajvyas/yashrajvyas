@@ -10,20 +10,19 @@ Focused on building scalable backend systems, clean architectures, and real-worl
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 🎯 Java Backend Developer focused on **Spring Boot ecosystem**
-* ⚙️ Building scalable backend applications with **Java, Spring Boot, Hibernate, PostgreSQL**
-* 🏨 Currently building an **Airbnb Clone Backend**
-* 💡 Strong interest in **System Design, APIs, Database Design, Performance Optimization**
-* 📚 Practicing **Data Structures & Algorithms**
-* 🚀 Continuously improving through real-world projects
+*  Java Backend Developer focused on **Spring Boot ecosystem**
+*  Building scalable backend applications with **Java, Spring Boot, Hibernate, PostgreSQL**
+* Strong interest in **System Design, APIs, Database Design, Performance Optimization**
+*  Practicing **Data Structures & Algorithms**
+*  Continuously improving through real-world projects
 
 ---
 
-## 🔥 Current Featured Project
+##  Current Featured Project
 
-### 🏨 Airbnb Clone Backend
+###  Airbnb Clone Backend
 
 Production-inspired backend system featuring:
 
