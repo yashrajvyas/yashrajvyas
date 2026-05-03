@@ -51,7 +51,7 @@ https://github.com/yashrajvyas/AirBnB-Clone
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-In_Progress-black?style=for-the-badge&logo=jsonwebtokens" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
 
 </p>
 
@@ -68,23 +68,6 @@ https://github.com/yashrajvyas/AirBnB-Clone
 
 ---
 
-## 📈 **GitHub Stats**
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=yashrajvyas&theme=dark" />
-
-</p> 
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajvyas&theme=react-dark" />
-
-</p>
-
----
 
 ## 🤝 **Connect With Me**
 
